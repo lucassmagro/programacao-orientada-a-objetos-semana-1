@@ -1,5 +1,3 @@
-# programacao-orientada-a-objetos-semana-1
-
 # Fundamentos da Programação Orientada a Objetos - PUC-PR
 
 Este repositório contém 11 exercícios básicos em Java desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas na PUC-PR, na disciplina de Fundamentos da Programação Orientada a Objetos.
