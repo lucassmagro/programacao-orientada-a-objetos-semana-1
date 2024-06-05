@@ -59,24 +59,6 @@ Os exercícios abordam conceitos fundamentais da programação orientada a objet
 - **Exercicio10:** Jogo da Forca
 - **Exercicio11:** Distância de Levenshtein
 
-## Como Utilizar
-
-Para executar os exercícios, siga os passos abaixo:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Navegue até a pasta do exercício desejado:
-   ```bash
-   cd seu-repositorio/ExercicioX
-   ```
-3. Compile e execute o código Java:
-   ```bash
-   javac NomeDoArquivo.java
-   java NomeDoArquivo
-   ```
-
 ## Contato
 
 Para mais informações, entre em contato pelo lucassmagro@gmail.com ou através das issues deste repositório.
